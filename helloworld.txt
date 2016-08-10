@@ -1,0 +1,5 @@
+root = cd/
+move up = cd../
+make folder = mkdir foldernamehere
+make file = touch filenamehere
+list = ls
