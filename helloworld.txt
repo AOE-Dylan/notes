@@ -3,3 +3,93 @@ move up = cd../
 make folder = mkdir foldernamehere
 make file = touch filenamehere
 list = ls
+CLI = Command Language Interface
+GUI = Graphic User Interface
+
+3 levels of knowing
+ 1. Knowing and Understanding
+ 2. Teaching and Reinforcing
+ 3. Grocking - to understand intuitively
+
+ // DO NOT COPY AND PASTE
+
+ git commands
+
+ to initialize the project we git init
+ to check project status we git status
+ "clean" = no red
+ git add <filename>
+ git commit -m 'this is my first commit for notes'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 000000000000000000000000000000
+ 000000000000000000000000000000
+ 00000     0000000000     00000
+ 00000     0000000000     00000
+ 00000     0000000000     00000
+ 000000000000000000000000000000
+ 0000   00000000000000000  0000
+ 00000   000000000000000  00000
+ 000000   0000000000000  000000
+ 0000000                0000000
+ 00000000               0000000
+ 000000000000000000000000000000
+         000000000000000      
+         000000000000000
+         000000000000000
+         000000000000000
+    0000000000000000000000000
+    0000000000000000000000000
+    0000000000000000000000000
